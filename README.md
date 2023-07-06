@@ -1,4 +1,4 @@
-# Project Title
+# Odin Recipes
 
 ## Table of Contents
 
