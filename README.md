@@ -17,8 +17,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
-
 ```
 A working web browser
 ```
@@ -29,7 +27,7 @@ Access the live site: [Odin Recipes](https://javierortegap.github.io/odin-recipe
 
 ## Learnings <a name = "learnings"></a>
 
-- Use Markdown for github README
+- Use Markdown for GitHub README
 - Follow the guidelines in [How to Write a Git Commit Message](https://cbea.ms/git-commit/) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - Create global snippets (templates) in VSCode (for example: Templates for HTML boilerplace and OL/UL with pre-added li)
 - Host live version of a web project directly through GitHub
