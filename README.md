@@ -5,6 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
+- [Learnings](#learnings)
 
 ## About <a name = "about"></a>
 
@@ -12,34 +13,24 @@ Part of The Odin Project: [Project: Recipes](https://www.theodinproject.com/less
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+A working web browser
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Access the live site: [Odin Recipes](https://javierortegap.github.io/odin-recipes/)
+
+## Learnings <a name = "learnings"></a>
+
+- Use Markdown for github README
+- Follow the guidelines in [How to Write a Git Commit Message](https://cbea.ms/git-commit/) and [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- Create global snippets (templates) in VSCode (for example: Templates for HTML boilerplace and OL/UL with pre-added li)
+- Host live version of a web project directly through GitHub
+- Commit early and often
